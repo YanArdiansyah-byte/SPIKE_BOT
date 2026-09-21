@@ -1,0 +1,22 @@
+[
+  {"question": "Ibu kota Indonesia adalah?", "options": ["A. Surabaya", "B. Jakarta", "C. Bandung", "D. Medan"], "answer": "B"},
+  {"question": "Planet terdekat dari Matahari?", "options": ["A. Venus", "B. Mars", "C. Merkurius", "D. Bumi"], "answer": "C"},
+  {"question": "Bahasa pemrograman yang dibuat oleh Brendan Eich adalah?", "options": ["A. Python", "B. Java", "C. JavaScript", "D. C++"], "answer": "C"},
+  {"question": "Organ terbesar dalam tubuh manusia adalah?", "options": ["A. Hati", "B. Otak", "C. Kulit", "D. Paru-paru"], "answer": "C"},
+  {"question": "Gunung tertinggi di dunia adalah?", "options": ["A. K2", "B. Kilimanjaro", "C. Everest", "D. Aconcagua"], "answer": "C"},
+  {"question": "1 jam = ... menit?", "options": ["A. 50", "B. 60", "C. 100", "D. 1000"], "answer": "B"},
+  {"question": "Lambang kimia untuk air adalah?", "options": ["A. CO2", "B. O2", "C. H2O", "D. NaCl"], "answer": "C"},
+  {"question": "Siapa presiden pertama Indonesia?", "options": ["A. Soekarno", "B. Soeharto", "C. Habibie", "D. Jokowi"], "answer": "A"},
+  {"question": "Hewan tercepat di darat adalah?", "options": ["A. Singa", "B. Leopard", "C. Cheetah", "D. Harimau"], "answer": "C"},
+  {"question": "Satelit buatan pertama dunia adalah?", "options": ["A. ISS", "B. Sputnik 1", "C. Apollo 11", "D. Voyager 1"], "answer": "B"},
+  {"question": "Rumus luas persegi adalah?", "options": ["A. s x s", "B. p x l", "C. 2 x (p+l)", "D. ½ x a x t"], "answer": "A"},
+  {"question": "Proses pengubahan CO2 menjadi O2 oleh tumbuhan disebut?", "options": ["A. Respirosi", "B. Fotosintesis", "C. Osmosis", "D. Destilasi"], "answer": "B"},
+  {"question": "Suku kata dalam bahasa Indonesia ada berapa?", "options": ["A. 5", "B. 6", "C. 7", "D. 8"], "answer": "B"},
+  {"question": "Negara dengan penduduk terbanyak di dunia adalah?", "options": ["A. India", "B. Amerika Serikat", "C. China", "D. Indonesia"], "answer": "C"},
+  {"question": "Siapa penemu lampu pijar?", "options": ["A. Nikola Tesla", "B. Alexander Bell", "C. Thomas Edison", "D. Albert Einstein"], "answer": "C"},
+  {"question": "Lambang kimia untuk emas adalah?", "options": ["A. Ag", "B. Fe", "C. Au", "D. Cu"], "answer": "C"},
+  {"question": "Planet terbesar dalam tata surya adalah?", "options": ["A. Saturnus", "B. Jupiter", "C. Neptunus", "D. Uranus"], "answer": "B"},
+  {"question": "1 kilometer = ... meter?", "options": ["A. 100", "B. 1000", "C. 10000", "D. 100000"], "answer": "B"},
+  {"question": "Ikan yang bisa bernafas di darat adalah?", "options": ["A. Salmon", "B. Gurame", "C. Betok", "D. Lele"], "answer": "C"},
+  {"question": "Alat untuk mengukur suhu adalah?", "options": ["A. Barometer", "B. Termometer", "C. Hygrometer", "D. Anemometer"], "answer": "B"}
+]

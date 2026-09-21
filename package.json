@@ -1,0 +1,44 @@
+{
+  "name": "spike-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts",
+    "bot": "tsx src/whatsapp-bot.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/fs-extra": "^11.0.4",
+    "@types/hapi__boom": "^7.4.1",
+    "@types/node": "^26.1.0",
+    "@types/qrcode": "^1.5.6",
+    "@types/qrcode-terminal": "^0.12.2",
+    "tsx": "^4.22.5",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "@fal-ai/client": "^1.10.1",
+    "@google/genai": "^2.10.0",
+    "@hapi/boom": "^10.0.1",
+    "@open-wa/wa-automate": "^4.76.0",
+    "@whiskeysockets/baileys": "^7.0.0-rc14",
+    "axios": "^1.18.1",
+    "better-sqlite3": "^12.11.1",
+    "cron": "^4.4.0",
+    "dotenv": "^17.4.2",
+    "fs-extra": "^11.3.6",
+    "node-cache": "^5.1.2",
+    "openai": "^6.45.0",
+    "pino": "^10.3.1",
+    "puppeteer": "^23.11.1",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.35.3"
+  }
+}
