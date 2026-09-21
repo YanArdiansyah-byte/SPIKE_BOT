@@ -1,0 +1,23 @@
+# ==== Sensitive / rahasia ====
+config/.env
+.env
+
+# ==== WhatsApp session (jangan pernah upload) ====
+session/
+sessions/
+baileys_session/
+
+# ==== Folder profil browser (sampah puppeteer/screenshot) ====
+_IGNORE_spike-ai/
+temp/
+logs/
+
+# ==== Runtime ====
+node_modules/
+memory.db
+*.log
+
+# ==== Data dinamis (user-generated, bukan untuk repo) ====
+data/*.json
+data/downloads/
+data/folders/
