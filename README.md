@@ -71,6 +71,3 @@ Scan QR WhatsApp yang muncul di terminal, lalu bot aktif.
 
 Ketik `!help` di chat untuk daftar lengkap. Semua pesan non-precommand otomatis dijawab AI.
 
-## ⚠️ Privasi
-
-Folder `session/`, `temp/`, dan `config/.env` **jangan di-upload** — berisi kredensial & sesi WhatsApp. Sudah di-`.gitignore`.
