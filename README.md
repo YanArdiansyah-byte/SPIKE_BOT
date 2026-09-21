@@ -1,4 +1,4 @@
-# Spike AI 🤖
+# SPIKE_BOT 🤖
 
 Bot WhatsApp AI multi-model — jawab semua chat, auto-switch model saat kena limit, lengkap dengan fitur kelas, utility, dan komunitas.
 
